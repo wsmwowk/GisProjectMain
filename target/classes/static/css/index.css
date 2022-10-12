@@ -1,0 +1,24 @@
+html
+,body
+,#map {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.leaflet-select-control:active,
+.leaflet-select-control.active {
+    background: #cccccc;
+}
+
+option {
+    word-wrap: break-word;
+}
+
+.controlButtons{
+    position: absolute;
+    right: 10px;
+    z-index: 400;
+    height: 48px !important;
+    width: 48px !important;
+}

@@ -1,0 +1,13 @@
+#inputColor {
+    font-family: 'FontAwesome';
+    height: 25px;
+    width: 80%;
+    border: 0.5px #000 solid;
+    color: white;
+}
+#inputColor li { padding: 0 5px; z-index: 3; }
+#inputColor li:not(.init) { float: left; display: none; z-index: 5 }
+#inputColor li:not(.init):hover, #inputColor li.selected:not(.init) { background: #09f; }
+li.init { cursor: pointer; color: white; font-size: 16px}
+
+a#submit { z-index: 1; }

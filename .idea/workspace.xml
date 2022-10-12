@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93bc859e-498f-4d4f-861d-1b07b698ceea" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.7.2/spring-data-commons-2.7.2-sources.jar!/org/springframework/data/repository/CrudRepository.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2EWXOgDMf6qzqy6sHEWF9SHD0AP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="TEXT" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/css/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15390626" />
+    <property name="project.structure.side.proportion" value="0.41127542" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css/markers" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errors" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/errors" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.GisProjectAli.GisProjectMain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GisProjectMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GisProjectMain" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.GisProjectAli.GisProjectMain.GisProjectMainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93bc859e-498f-4d4f-861d-1b07b698ceea" name="Changes" comment="" />
+      <created>1662712284421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662712284421</updated>
+      <workItem from="1662712285739" duration="18000" />
+      <workItem from="1662712307262" duration="7000" />
+      <workItem from="1662712325904" duration="6000" />
+      <workItem from="1662712356456" duration="17000" />
+      <workItem from="1662712380897" duration="4000" />
+      <workItem from="1662712468931" duration="9358000" />
+      <workItem from="1662742263724" duration="9309000" />
+      <workItem from="1662805518646" duration="14054000" />
+      <workItem from="1662828160658" duration="7694000" />
+      <workItem from="1662837082759" duration="556000" />
+      <workItem from="1662837962924" duration="17829000" />
+      <workItem from="1662893087422" duration="16391000" />
+      <workItem from="1662914556452" duration="7741000" />
+      <workItem from="1662926019591" duration="5498000" />
+      <workItem from="1662934012118" duration="7516000" />
+      <workItem from="1662985485111" duration="31417000" />
+      <workItem from="1663062205683" duration="14466000" />
+      <workItem from="1663081560658" duration="16077000" />
+      <workItem from="1663157622773" duration="32246000" />
+      <workItem from="1663205235162" duration="4352000" />
+      <workItem from="1663247117447" duration="19993000" />
+      <workItem from="1663365512749" duration="10238000" />
+      <workItem from="1663380848809" duration="4120000" />
+      <workItem from="1663418393017" duration="1853000" />
+      <workItem from="1663423365476" duration="4688000" />
+      <workItem from="1663437694116" duration="5937000" />
+      <workItem from="1663447549738" duration="26783000" />
+      <workItem from="1663530981993" duration="15159000" />
+      <workItem from="1663561256709" duration="10040000" />
+      <workItem from="1663612866590" duration="9432000" />
+      <workItem from="1663713188087" duration="6943000" />
+      <workItem from="1664449558622" duration="7865000" />
+      <workItem from="1665229481001" duration="128000" />
+      <workItem from="1665231232272" duration="500000" />
+      <workItem from="1665561617762" duration="1838000" />
+      <workItem from="1665567879619" duration="9779000" />
+      <workItem from="1665601597775" duration="10001000" />
+      <workItem from="1665612912400" duration="3818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.sun.proxy.$Proxy110" memberName="h" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GisProjectMain$GisProjectMainApplication.ic" NAME="GisProjectMainApplication Coverage Results" MODIFIED="1663453189366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
